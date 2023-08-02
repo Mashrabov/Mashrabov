@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mashrabov
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on gaming
 - 📫 How to reach me arno2000Dorian@gmail.com
 
